@@ -73,27 +73,18 @@ Aqui vou mantendo uma lista viva do que estou aprendendo e do que pretendo explo
 <p align="left">
     <a href="https://www.instagram.com/pedromarreto/" target="_blank">
         <img 
-            align="center" 
             alt="Instagram" 
             title="Me siga no Instagram"
-            width="30px" 
-            style="padding-right: 10px;" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/instagram/instagram-original.svg" 
+            src="https://img.shields.io/badge/Instagram-%40pedromarreto-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
-    <b>@pedromarreto</b>
-</p>
-
-<p align="left">
-    <img 
-        align="center" 
-        alt="BeeCrowd" 
-        title="Meu perfil no BeeCrowd"
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://www.beecrowd.com.br/judge/img/beecrowd-logo-red.svg" 
-    />
-    <b>ID BeeCrowd: 1239792</b> — <a href="https://judge.beecrowd.com/pt/profile/1239792" target="_blank">ver perfil</a>
+    <a href="https://judge.beecrowd.com/pt/profile/1239792" target="_blank">
+        <img 
+            alt="BeeCrowd" 
+            title="Meu perfil no BeeCrowd"
+            src="https://img.shields.io/badge/BeeCrowd-ID%201239792-FF6600?style=for-the-badge&logo=codeforces&logoColor=white"
+        />
+    </a>
 </p>
 
 ---
