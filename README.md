@@ -91,18 +91,30 @@ Aqui vou mantendo uma lista viva do que estou aprendendo e do que pretendo explo
 
 ### 📊 Estatísticas
 
-<p>
+<p align="center">
   <img 
-    align="left" 
     alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=pnmarreto-tech&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    height="165" 
+    src="https://github-readme-stats.vercel.app/api?username=pnmarreto-tech&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true&count_private=true" 
   />
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=pnmarreto-tech&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    alt="Top Linguagens" 
+    height="165" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pnmarreto-tech&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true" 
   />
 </p>
+
+<p align="center">
+  <img 
+    alt="Sequência de Contribuições" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=pnmarreto-tech&theme=tokyonight&hide_border=true" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    alt="Gráfico de Atividade" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=pnmarreto-tech&theme=tokyo-night&hide_border=true&custom_title=Atividade%20de%20Contribui%C3%A7%C3%B5es" 
+  />
+</p>
+
