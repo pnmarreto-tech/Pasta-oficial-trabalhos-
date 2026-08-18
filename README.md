@@ -1,22 +1,21 @@
 # 👨🏻‍💻 Pedro Neves
-
 **` Futuro Desenvolvedor FullStack`**
 
-Me chamo Pedro Neves. Sou apaixonado por tecnologia e compartilho meu conhecimento através do Instagram, com o perfil chamado "[@pedromarreto](https://www.instagram.com/@pedromarreto/)".
+Me chamo Pedro Neves. Sou apaixonado por tecnologia e compartilho meu conhecimento através do Instagram, com o perfil chamado "[@pedromarreto](https://www.instagram.com/pedromarreto/)".
 
 <p align="left">
-    <a href="https://github.com/SEU_USUARIO_GITHUB?tab=repositories&sort=stargazers">
+    <a href="https://github.com/pnmarreto-tech?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/SEU_USUARIO_GITHUB?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/pnmarreto-tech?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/SEU_USUARIO_GITHUB?tab=followers">
+    <a href="https://github.com/pnmarreto-tech?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/SEU_USUARIO_GITHUB?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/pnmarreto-tech?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
@@ -49,9 +48,55 @@ Me chamo Pedro Neves. Sou apaixonado por tecnologia e compartilho meu conhecimen
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<br/>
+<br/>
 
-<br/>
-<br/>
+---
+
+### 📚 Estudando atualmente / Próximos passos
+
+Aqui vou mantendo uma lista viva do que estou aprendendo e do que pretendo explorar em breve:
+
+- [ ] JavaScript / TypeScript
+- [ ] React
+- [ ] Node.js
+- [ ] Banco de dados (SQL / MySQL)
+- [ ] Estrutura de dados e algoritmos
+- [ ] Git avançado e boas práticas de versionamento
+
+> Sinta-se à vontade para sugerir conteúdos ou trocar uma ideia comigo pelo Instagram!
+
+---
+
+### 📫 Contato
+
+<p align="left">
+    <a href="https://www.instagram.com/pedromarreto/" target="_blank">
+        <img 
+            align="center" 
+            alt="Instagram" 
+            title="Me siga no Instagram"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/instagram/instagram-original.svg" 
+        />
+    </a>
+    <b>@pedromarreto</b>
+</p>
+
+<p align="left">
+    <img 
+        align="center" 
+        alt="BeeCrowd" 
+        title="Meu perfil no BeeCrowd"
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="https://www.beecrowd.com.br/judge/img/beecrowd-logo-red.svg" 
+    />
+    <b>ID BeeCrowd: 1239792</b> — <a href="https://judge.beecrowd.com/pt/profile/1239792" target="_blank">ver perfil</a>
+</p>
+
+---
 
 ### 📊 Estatísticas
 
@@ -61,14 +106,12 @@ Me chamo Pedro Neves. Sou apaixonado por tecnologia e compartilho meu conhecimen
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=pnmarreto-tech&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=pnmarreto-tech&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
