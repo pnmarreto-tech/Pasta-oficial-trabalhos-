@@ -107,7 +107,7 @@ Aqui vou mantendo uma lista viva do que estou aprendendo e do que pretendo explo
 <p align="center">
   <img 
     alt="Sequência de Contribuições" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=pnmarreto-tech&theme=tokyonight&hide_border=true" 
+    src="https://streak-stats.demolab.com/?user=pnmarreto-tech&theme=tokyonight&hide_border=true" 
   />
 </p>
 
@@ -117,4 +117,3 @@ Aqui vou mantendo uma lista viva do que estou aprendendo e do que pretendo explo
     src="https://github-readme-activity-graph.vercel.app/graph?username=pnmarreto-tech&theme=tokyo-night&hide_border=true&custom_title=Atividade%20de%20Contribui%C3%A7%C3%B5es" 
   />
 </p>
-
