@@ -16,6 +16,7 @@
         }
         printf("a palavra %s possue %i vogais\n",x,somadevogais);
 
+        
 
         return 0;
     }
