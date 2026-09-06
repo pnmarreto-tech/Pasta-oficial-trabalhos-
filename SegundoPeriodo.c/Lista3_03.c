@@ -7,16 +7,27 @@
     };
 
     int main(){
-        struct alunos chamada[10];
-        int codigo;
-    
-        for(int i=0;i<10;i++){
-            scanf("%s",chamada[i].nome[30]);
+         int limit=10;
+        struct alunos chamada[limit];
+        for(int i=0;i<limit;i++){
+            printf("Digite o nome: \n Frequencia:\n");
+            scanf("%29s %f",chamada[i].nome,&chamada[i].frequecia);
         }
-        chamada[10].nome[30] =codigo;
-        switch (codigo){
-            case 1:
-            
-
+        char nomesprocurados[10][30]={          //lembrar de usar uma matriz de 2d para substituir varios if..else
+            "Pedro","Eduardo","Carlos",
+            "henrique","Mateus","kamila",
+            "Naruto","Sasuke","Kakashi",
+            "Charles"
+        };
+        for(int i=0;i<limit;i++){
+            for(int j=0;j<10;j++){
+                 if(strcmp(chamada[i].nome,nomesprocurados[j])==0){
+            printf("Nome: %s Frequencia: %.2f\n",chamada[i].nome,chamada[i].frequecia);
+                }
+            }
         }
+       
+        return 0;
     }
+
+
