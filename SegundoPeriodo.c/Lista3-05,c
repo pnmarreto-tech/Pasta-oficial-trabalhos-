@@ -1,0 +1,33 @@
+#include <stdio.h>
+#include <string.h>
+
+    struct alunos{
+    char nomes[30];
+    float media;
+    };
+
+    int main(){
+        int limit=8;
+        struct alunos nm[8];
+         float maiormedia;
+        int posicao=0;
+
+        for(int i=0;i<limit;i++){
+            printf("Digite os nomes: \n");
+            scanf("%s",nm[i].nomes);
+            printf("Digite as notas: \n");
+            scanf("%f",&nm[i].media);
+        }
+
+        maiormedia=nm[0].media;
+        for(int i=0;i<limit;i++){
+            if(nm[i].media=maiormedia){
+                maiormedia=nm[i].media;
+                posicao = i;
+            }
+        }
+        printf("Nome do aluno: %s",nm[posicao].nomes);
+        printf("Maior media: %.1f", maiormedia);
+
+        return 0;
+    } 
