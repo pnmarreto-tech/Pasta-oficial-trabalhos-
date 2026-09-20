@@ -13,9 +13,9 @@
     
         void saudacao(void){
             if(tm>0 && tm<=360){
-            printf("Bom noite\n");
+            printf("Boa noite\n");
             }else if(tm>=361 && tm<=720){
-                printf("Bom dia\n");
+                printf("Boa dia\n");
             }else if(tm>=721 && tm<=1080){
                 printf("Boa tarde\n");
             }else if(tm>=1081 && tm<=1439){
