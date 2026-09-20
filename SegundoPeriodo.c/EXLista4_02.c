@@ -4,6 +4,7 @@
 
    
     int tm;
+    extern int  g_hora ,g_minutos;
     int converteHoraMinutos(){
         
         tm = ((g_hora*60)+g_minutos);
