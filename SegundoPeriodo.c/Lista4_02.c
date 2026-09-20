@@ -7,10 +7,10 @@
     int main(void){
 
         printf("Digite a Hora e os minutos: \n");
-        scanf("%d %d", &g_hora,g_minutos);
+        scanf("%d %d", &g_hora,&g_minutos);
 
         converteHoraMinutos();
         saudacao();
 
-
+        return 0;
     }
